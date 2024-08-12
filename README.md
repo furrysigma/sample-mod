@@ -7,7 +7,7 @@
 On the **archived** version of thisisnotawebsitedotcom, you can use the code "mods" to access the mod list.</br>
 From there, just enter in "furrysigma/sample-mod" and it will be loaded.
 
-After loading it, the code provided is "skibidi". It should respond with "dop dop".
+After loading it, the code provided is "skib". It should respond with "dop dop".
 
 ### How do I make my own mod?
 
