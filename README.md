@@ -14,11 +14,18 @@ After loading it, the code provided is "skibidi". It should respond with "dop do
 Fork this repository, name it how you'd like.
 In the `mod.json` file, you can define as many codes as you'd like and attach them to files *within the repository*.
 
-> :exclamation: Mods with overlapping codes will not be prioritized, and the original code will be displayed instead.
-> Please also ensure that your mime types are correct, as shown below:
+> :exclamation: Mods with overlapping codes will not be prioritized, and the original code will be displayed instead.<br>
+> Please also ensure that you only use the following file types (as other files will not work properly).
 
-File Extension | Mimetype
- - .html => `text/html`
- - .mp4 => `video/mp4`
- - .mp3 => `audio/mpeg`
- - .png => `image/png`
+- .html
+- .mp4
+- .mp3
+- .png
+
+### Additional notes
+
+Please ensure any files, such as images, are absolutely defined.
+
+> :x: skibidi.png<br>
+> :x: /skibidi.png<br>
+> :heavy_check_mark: https://raw.githubusercontent.com/furrysigma/sample-mod/main/skibidi.png
